@@ -5,15 +5,13 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+# 创建项目 
+vue init webpack-simple first-npm
 
-# build for production with minification
-npm run build
+# 写组件
+
+# 攻略
+(https://www.jianshu.com/p/5c20c909ad91)
+
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# first-npm
