@@ -9,4 +9,4 @@ const firstNpm = {
   }
 }
 
-export default firstNpm
+export default firstNpmCom

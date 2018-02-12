@@ -1,9 +1,10 @@
 {
   "name": "first-npm-hoog",
   "description": "A Vue.js project",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "author": "506411223@qq.com <506411223@qq.com>",
   "license": "MIT",
+  "main": "dist/build.js", 
   "private": false,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
@@ -16,6 +17,17 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evahog33/first-npm.git "
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "keywords": [
+    "first-npm-hoog"
   ],
   "devDependencies": {
     "babel-core": "^6.26.0",
